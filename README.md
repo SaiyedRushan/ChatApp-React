@@ -1,5 +1,10 @@
 # ChatApp-React
 =======
+To test the interface, go to the webstie in the description and use the following login credentials:
+username: Test
+password: 12341234
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
