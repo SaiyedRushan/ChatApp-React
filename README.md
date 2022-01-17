@@ -2,9 +2,12 @@
 
 =======
 
-To test the interface, go to the webstie in the description and use the following login credentials:
+To test the interface, go to the website in the description and use the following login credentials:
 username: Test
 password: 12341234
+
+Created a chat app using react and the chatengine API.
+_Followed JavaScriptMastery's youtube tutorial to create the app. Learned React and understood its uses._
 
 # Getting Started with Create React App
 
