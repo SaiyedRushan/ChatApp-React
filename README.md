@@ -2,12 +2,16 @@
 
 =======
 
-To test the interface, go to the website in the description and use the following login credentials:
+To test the interface, click [here](https://rushans-chat-app.netlify.app/) and use the following login credentials:
 username: Test
 password: 12341234
 
 Created a chat app using react and the chatengine API.
-_Followed JavaScriptMastery's youtube tutorial to create the app. Learned React and understood its uses._
+_Followed JavaScriptMastery's youtube tutorial to create the app. Learned React and understood its applications._
+
+# Screenshots
+![image](https://user-images.githubusercontent.com/70185785/150406459-8ce70a33-36b9-4d09-a806-1783ef005aae.png)
+
 
 # Getting Started with Create React App
 
